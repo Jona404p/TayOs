@@ -36,6 +36,7 @@ PACK_CYBER=(
     traceroute
     whois
     dnsutils
+    tor
 )
 
 # ── 🎮 Gaming ─────────────────────────────────────────────────────
