@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Jona404p/TayOs/blob/main/wallpapersTY/Wall1.png" alt="TayOs Software Center" width="100%"/>
+<img src="https://github.com/Jona404p/TayOs/blob/main/wallpapersTY/Wall1.png" alt="TayOs Software Center" width="60%"/>
 
 # 🌸 TayOs Software Center
 
