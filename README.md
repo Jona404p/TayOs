@@ -39,12 +39,12 @@ Funciona en **TayOs** y cualquier distribución basada en **Debian/Ubuntu**.
 ## 🚀 Instalación rápida
 
 ```bash
-git clone https://github.com/JonathanPaniagua/tayos-center.git
-cd tayos-center
+git clone https://github.com/Jona404p/TayOs.git
+cd TayOs
 bash setup.sh
 ```
 
-El script `setup.sh` configura permisos y opcionalmente crea un alias `tayos-center` en tu terminal.
+El script `setup.sh` configura permisos y opcionalmente crea un alias `TayOs` en tu terminal.
 
 ---
 
@@ -53,7 +53,7 @@ El script `setup.sh` configura permisos y opcionalmente crea un alias `tayos-cen
 | Pack | Aplicaciones incluidas |
 |------|------------------------|
 | 💼 **Trabajo & Oficina** | LibreOffice, Thunderbird, GIMP, Inkscape, Obsidian, Remmina, Nextcloud |
-| 🛡️ **Ciberseguridad** | Nmap, Wireshark, Hydra, Hashcat, SQLMap, Nikto, Aircrack-ng, Tcpdump |
+| 🛡️ **Ciberseguridad** | Nmap, Wireshark, Hydra, Hashcat, SQLMap, Nikto, Aircrack-ng, Tcpdump, tor |
 | 🎮 **Gaming** | Steam, Lutris, Wine, MangoHud, GameMode, Vulkan Tools, Mesa |
 | 👨‍💻 **Programación** | Git, Python 3, Node.js, Docker, VS Code, Neovim, build-essential |
 | 🧠 **IA Stack** | Ollama + modelos llama3.2:3b y phi3:mini listos para usar localmente |
