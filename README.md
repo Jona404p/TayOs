@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Jona404p/TayOs/blob/main/wallpapersTY/Wall1.png" alt="TayOs Software Center" width="60%"/>
 
-# 🌸 TayOs Software Center
+# ⚜️ TayOs Software Center
 
 **Gestor de paquetes por categorías para TayOs — instala lo que necesitas, cuando lo necesitas.**
 
