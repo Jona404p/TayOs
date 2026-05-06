@@ -1,4 +1,4 @@
-# 🌸 TayOs Software Center______Jonatan Paniagua Vazquez
+# 🐙 TayOs Software Center___Jonatan Paniagua
 
 Centro de instalación de aplicaciones para **TayOs** — instala packs completos de software con un solo comando.
 
